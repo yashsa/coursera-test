@@ -1,0 +1,41 @@
+.heading
+{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.dish
+{
+    position: relative;
+    background-color:gray;
+    box-sizing: border-box;
+    width:33%;
+}
+
+.chicken
+{
+    background-color: hotpink;
+    position: absolute;
+    right:0px;
+    top:0px;
+    box-sizing: border-box;
+    
+}
+.beef
+{
+    background-color: red;
+    color: white;
+    position: absolute;
+    right:0px;
+    top:0px;
+    box-sizing: border-box;
+}
+
+.sushi
+{
+    background-color:yellowgreen;
+    position: absolute;
+    right:0px;
+    top:0px;
+    box-sizing: border-box;
+    
+}
